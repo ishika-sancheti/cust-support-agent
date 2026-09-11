@@ -1,0 +1,22 @@
+# Python
+__pychache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment / secrets
+.env
+
+# Data
+data/raw/*
+data/processed/*
+
+# Jupyter
+.ipnyb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+.DS_store
+Thumbs.db
